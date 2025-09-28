@@ -48,6 +48,7 @@ The pipeline follows a complete **ETL + Analytics workflow** using Python, SQL, 
 ---
 
 ## 📂 Repository Structure
+```
 📦 Banking-Loan-Data-Analysis
 ┣ 📜 README.md # Project overview
 ┣ 📂 data
@@ -59,7 +60,7 @@ The pipeline follows a complete **ETL + Analytics workflow** using Python, SQL, 
 ┣ 📂 reports
 ┃  ┣ 📜 Loan_Analysis.xlsx # Excel pivot tables
 ┃  ┗ 📜 PowerBI_Dashboard.pbix # Power BI dashboard file
-
+```
 
 
 ---
