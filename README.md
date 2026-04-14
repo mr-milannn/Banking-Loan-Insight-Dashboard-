@@ -2,6 +2,8 @@
 
 ## Demo Link - [Banking Loan Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiOTdjYTM4N2UtZTE1My00M2E2LThiYmQtYTFjYzFhMzA4MmE1IiwidCI6IjdlZTg0MzQ3LWM5MmMtNDFiMi1hYTIyLWNiZDM1NGFiZjcwNSJ9)
 
+## Report Link - [Banking Loan BRD Report](https://drive.google.com/drive/folders/1wqEhc1ACmpYVtIs_fTBq9Uwj7ij75FQp?usp=drive_link)
+
 ## 📌 Project Overview
 This project analyzes loan application data to uncover patterns in loan approvals across income brackets, property areas, and credit histories.  
 The pipeline follows a complete **ETL + Analytics workflow** using Python, SQL, Excel, and Power BI.  
